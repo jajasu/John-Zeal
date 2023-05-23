@@ -1,0 +1,33 @@
+body {
+	font-family:Verdana, Arial, Sans-serif;
+	font-size: 14px;
+	margin:0;
+}
+
+#navbar {
+	background-color: black;
+	padding: 10px;
+}
+
+#navbar ul {
+	text-align: center;
+}
+
+#navbar li {
+	display: inline;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#navbar li a {
+	color:white
+	font-weight: bold;
+	text-decoration: none;
+	padding: 10px;
+}
+
+#navbar li a:hover {
+background-color: white;
+color:gray;
+text-decoration: none;
+}
